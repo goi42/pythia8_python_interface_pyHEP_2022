@@ -1,0 +1,8 @@
+name: pythia8_python_interface_pyHEP_2022
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - matplotlib
+  - pythia8=8.305
+  - ipykernel
