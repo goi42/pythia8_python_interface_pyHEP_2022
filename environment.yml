@@ -6,3 +6,9 @@ dependencies:
   - matplotlib
   - pythia8=8.305
   - ipykernel
+  - jupyterlab
+  - pip
+  - python
+  - setuptools
+  - pip:
+    - jupyterlab_latex
