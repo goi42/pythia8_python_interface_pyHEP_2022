@@ -1,5 +1,7 @@
 # The Pythia 8 Python Interface
 
+![Pythia logo.](https://pythia.org/fig/pythia-logo-b.png)
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/goi42/pythia8_python_interface_pyHEP_2022/HEAD)
 
 This [notebook](notebook.ipynb)
