@@ -6,3 +6,4 @@ dependencies:
   - matplotlib
   - pythia8=8.305
   - ipykernel
+  - wurlitzer
